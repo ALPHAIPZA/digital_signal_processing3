@@ -18,3 +18,9 @@
 │   ├── example_filtered_pitchN+Mdb_frameO_hopP.wav
 end
 ```
+
+#실행 방법
+```
+1. input_audio 폴더에 처리할 .wav파일 저장
+2. main.m 실행
+3. 스펙트로그램 시각화(Matlab), output_audio에 처리된 .wav파일 저장됨
