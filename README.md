@@ -6,12 +6,10 @@
 ├── src/
 │   ├── main.m             
 │   ├── applyFIRFilter.m      
-│   ├── loadAudioFile.m
 │   ├── normalizeAudioToDynamicDB.m         
 │   ├── PerformFFT.m * STFT() 수행
 │   ├── PerformIFFT.m
 │   ├── pitchModulation.m
-│   ├── saveAudioFile.m    
 ├── input_audio/
 │   ├── example.wav 
 ├── output_audio/ * 1회 실행시
